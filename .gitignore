@@ -1,0 +1,13 @@
+# Ignorar a pasta do ambiente virtual
+venv/
+
+# Ignorar os caches do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de credenciais e segredos
+n8n-integracao-451311-7ef61a9b23e7.json
+credenciais-google.json
+
+# Opcional, mas recomendado: Ignorar arquivos de dados
+*.xlsx
